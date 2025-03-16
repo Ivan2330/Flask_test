@@ -1,0 +1,8 @@
+flask
+flask-sqlalchemy
+flask-pydantic
+psycopg2-binary
+python-dotenv
+pydantic[email]
+flask-swagger-ui
+pytest

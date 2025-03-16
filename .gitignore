@@ -1,0 +1,19 @@
+echo "venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+*.sqlite3
+.idea/
+.vscode/
+.migrations/
+.envrc
+instance/
+*.swp
+*.swo
+*.egg-info/
+coverage/
+pytest_cache/
+node_modules/
+" > .gitignore
